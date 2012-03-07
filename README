@@ -1,0 +1,5 @@
+godns
+-----
+
+Package dhcp implements the Dynamic Host Configuration Protocol as defined in RFC 2131.
+
