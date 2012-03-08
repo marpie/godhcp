@@ -1,0 +1,3 @@
+package dhcp
+
+//func NewRequestDiscover
